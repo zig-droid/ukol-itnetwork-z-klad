@@ -1,0 +1,14 @@
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\bin\Debug\net8.0\Ukol.exe
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\bin\Debug\net8.0\Ukol.deps.json
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\bin\Debug\net8.0\Ukol.runtimeconfig.json
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\bin\Debug\net8.0\Ukol.dll
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\bin\Debug\net8.0\Ukol.pdb
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.AssemblyInfoInputs.cache
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.AssemblyInfo.cs
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.csproj.CoreCompileInputs.cache
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.dll
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\refint\Ukol.dll
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.pdb
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\Ukol.genruntimeconfig.cache
+C:\Users\jihla\OneDrive\Plocha\Nová složka\itnetwork\Ukol\Ukol\obj\Debug\net8.0\ref\Ukol.dll
